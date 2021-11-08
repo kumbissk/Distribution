@@ -1,8 +1,8 @@
 # Distribution
 
-fork
-modifier
-commit
-pull request
+- fork
+- modifier
+- commit
+- pull request
 
-thanks
+>thanks
